@@ -1,4 +1,4 @@
-# SwiftUI Solid Status Bar
+# 🎨 SwiftUI Solid Status Bar
 
 ![](gif.gif)
 
