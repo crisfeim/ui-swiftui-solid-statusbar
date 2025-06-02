@@ -34,3 +34,8 @@ struct ContentView: View {
         }
     }
 }
+```
+
+## Examples
+
+See https://github.com/crisfeim/app-Movies
